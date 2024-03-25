@@ -1,7 +1,7 @@
 const user = require('../models/user')
 
 // Frontend page github page link
-const frontendURL = 'https://gperez314.github.io/Assignment2-Registration-Frontend/'
+const frontendURL = 'https://gperez314.github.io/Assignment2-Registration-Frontend'
 
 // Get and process user registration data from frontend
 const registerUser = (req, res) => {  
